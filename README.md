@@ -2,9 +2,9 @@
 Projects I completed will cover the following:
 1. Linear Regressions: Simple linear regression, Multiple linear regression
 2. Logistic Regressions: Simple logistic, Mutliple logistic, Multinomial logistic regression
-3. Robust Linear Regression:
-4. Bayesian Linear Regression:
-5. Poisson Linear Regression:
+3. Robust Linear Regression
+4. Bayesian Linear Regression
+5. Poisson Linear Regression
 6. Multivariate Adaptive Regression
 7. Generalized additive model
 8. Regression trees
