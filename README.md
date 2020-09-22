@@ -2,11 +2,11 @@
 Various Regression analyses
 
 ## Projects in this repository:
-1. Simple Linear Regression
-2. Multiple Linear Regression
-3. Simple Logistic Regression
-4. Mutliple Logistic Regression
-5. Multinomial Logistic Regression
+1. Linear Regressions: Simple linear regression, Multiple linear regression
+2. Logistic Regressions: Simple logistic, Mutliple logistic, Multinomial logistic regression
+3. Multivariate Adaptive Regression
+4. 
+5. 
 
 ### Notes on Regressions:
 
