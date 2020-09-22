@@ -10,6 +10,7 @@ Projects I completed will cover the following:
 8. Regression trees
 9. Support vector regression
 10. Random forest regression
+
 Excluded from this repo: Regression with Neural Networks
 
 ### Notes on Regressions:
